@@ -35,11 +35,15 @@ Let's begin.
 
 ### Development Environment 
 
-For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CodePen](http://codepen.io/). Sign up for a free plan [here](https://codepen.io/signup). After signing up, navigate to the homepage and click the "New Pen" button to create a new development enviornment. 
+For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development enviornment. 
 
-You should see four panes. The top three are for entering your HTML, CSS, and/or Javascript code, while the bottom pane displays a quick preview of the entered code.
+You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a quick preview of the entered code.
 
-Let's look at a quick example. The following HTML code displays the text, "Hello, World".
+Let's look at a quick example before building our card. 
+
+#### HTML
+
+The following HTML code displays the text, "Hello, World".
 
 ```html
 <!DOCTYPE html>
@@ -66,6 +70,39 @@ Let's look at a quick example. The following HTML code displays the text, "Hello
 
 This is how a standard HTML page is structured.
 
+Copy this code in the HTML pane on CSSDeck. You should see the text "Hello, World" in the preview pane.
+
+Next, let's add some styles.
+
+#### CSS
+
+The following is a what a standard CSS stylesheet looks like:
+
+```css
+.container {
+  padding-top: 50px;
+}
+
+body {
+  background-color: yellow;
+}
+```
+
+**What's going on?**
+
+1. The `.container` selector is associated with the same selector in our HTML document (check it out), followed by curly braces.
+2. Inside the curly braces, we have a properties, which are descriptive words, like font-weight, font-size, or background color. In our case, we have `padding-top`.
+3. Values are then assigned to each property, which are preceded by a colon and followed by a semi-colon. 
+
+> http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
+
+Can you figure out what's going on with the body tag?
+
+Copy and paste this code into the CSS pane of CSSDeck. Check out the preview.
+
+Congrats! You just made your first webpage!
+
+### V-Day Card
 
 
 
