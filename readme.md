@@ -143,5 +143,21 @@ Add a title to your card.
 
 ```CSS
 body {
-  border: 10px solid #900;  
+  border: 5px solid #AC3CB4;  
 }
+
+Find a pretty color [here](http://color.hailpixel.com/).
+
+#### Image
+
+#### Paragraph Text
+
+#### Button
+
+### Sharing
+
+Show that you care.
+
+### Next Steps
+
+### Conclusion
