@@ -100,10 +100,48 @@ Can you figure out what's going on with the body tag?
 
 Copy and paste this code into the CSS pane of CSSDeck. Check out the preview.
 
-Congrats! You just made your first webpage!
+Congrats. You just made your first webpage!
 
 ### V-Day Card
 
+Now let's develop our card using the following HTML elements-
+- Header Text
+- Image
+- Paragraph Text 
+- Button
 
+Each of elements will be styled using CSS.
 
+Start by creating a new development environment on CSSDeck. 
 
+#### Add boilerplate
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+This is similar to the previous example only now we have a blank canvas to work with.
+
+#### Page title
+
+Add a title to your card. 
+
+```html
+<title>Happy Valentine's Day!</title>
+```
+
+#### Border
+
+```CSS
+body {
+  border: 10px solid #900;  
+}
