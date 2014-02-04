@@ -110,7 +110,7 @@ Now let's develop our card using the following HTML elements-
 - Paragraph Text 
 - Button
 
-Each of elements will be styled using CSS.
+Each of the elements will be styled using CSS.
 
 Start by creating a new development environment on CSSDeck. 
 
