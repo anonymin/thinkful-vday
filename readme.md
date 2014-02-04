@@ -110,7 +110,7 @@ Now let's develop our card using the following HTML elements-
 - Paragraph Text 
 - Button
 
-Each of the elements will be styled using CSS.
+Each of the elements will be styled using CSS. We'll also be applying a border, which is stictly a CSS style.
 
 Start by creating a new development environment on CSSDeck. 
 
@@ -122,7 +122,6 @@ Start by creating a new development environment on CSSDeck.
   <head>
     <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
   </head>
   <body>
   </body>
@@ -143,11 +142,21 @@ Add a title to your card.
 
 ```CSS
 body {
-  border: 5px solid #AC3CB4;  
+  border: 20px solid #fcd2d8;  
 }
 ```
+The border property contactins the following values - 
+`border-width` `border-style` `border-color`
 
-Find a pretty color [here](http://color.hailpixel.com/).
+Try changing these values. Play with the pixel size until you get the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color [here](http://color.hailpixel.com/). *Developer hint:* Use that special someone's favorite color!
+
+#### Header
+
+Add the following header to your card beneath the opening `<body>` tag:
+
+<h1>
+
+Helvetica Neue, Thin, 68px
 
 #### Image
 
