@@ -166,15 +166,22 @@ Next, add a CSS selector to the opening `<h1>` tag:
 <h1 class="header">
 ```
 
-With this tag, we can assign styles to it by referencing the tag in our CSS stylesheet:
+With this tag, we can assign styles to it by referencing it in our CSS stylesheet:
 
 ```css
-font-family: "Helvetica Neue";
-font-style: thin;
-font-size 68px;
+.header {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  font-size: 68px;
+  text-align: center;
+  margin-top: 50px;
+}
 ```
 
+EXPLANATION
+
 #### Image
+
+
 
 #### Paragraph Text
 
