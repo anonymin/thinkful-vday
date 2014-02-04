@@ -13,6 +13,7 @@
 7. Users can share full-screen links if they have an account example
 8. Next steps / stretch goals
 
+<hr>
 
 Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're going to be making in this tutorial. Using the power of HTML and CSS, you'll learn how develop a website that doubles as a v-day card to wow that special someone in your life.
 
@@ -33,3 +34,39 @@ The image above is an example of what you're going to be creating. As you probab
 Let's begin.
 
 ### Development Environment 
+
+For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CodePen](http://codepen.io/). Sign up for a free plan [here](https://codepen.io/signup). After signing up, navigate to the homepage and click the "New Pen" button to create a new development enviornment. 
+
+You should see four panes. The top three are for entering your HTML, CSS, and/or Javascript code, while the bottom pane displays a quick preview of the entered code.
+
+Let's look at a quick example. The following HTML code displays the text, "Hello, World".
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hello, world</h1>
+    </div>
+  </body>
+</html>
+```
+
+**What's going on?**
+
+1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case). Without this, browsers can get confused.
+2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
+3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines for classification.
+4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
+
+This is how a standard HTML page is structured.
+
+
+
+
+
