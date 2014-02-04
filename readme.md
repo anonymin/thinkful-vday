@@ -15,7 +15,7 @@
 
 <hr>
 
-Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're going to be making in this tutorial. Using the power of HTML and CSS, you'll learn how develop a website that doubles as a v-day card to wow that special someone in your life.
+Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life.
 
 ### HTML and CSS
 
@@ -35,7 +35,7 @@ Let's begin.
 
 ### Development Environment 
 
-For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development enviornment. 
+For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development environment. 
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a quick preview of the entered code.
 
