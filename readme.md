@@ -145,6 +145,7 @@ Add a title to your card.
 body {
   border: 5px solid #AC3CB4;  
 }
+```
 
 Find a pretty color [here](http://color.hailpixel.com/).
 
