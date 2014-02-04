@@ -35,7 +35,7 @@ Let's begin.
 
 ### Development Environment 
 
-For this tutorial we will be using an online HTML, CSS, and JavaScript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development environment. 
+For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development environment. 
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a quick preview of the entered code.
 
@@ -94,7 +94,7 @@ body {
 2. Inside the curly braces, we have a properties, which are descriptive words, like font-weight, font-size, or background color. In our case, we have `padding-top`.
 3. Values are then assigned to each property, which are preceded by a colon and followed by a semi-colon. 
 
-> http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
+  > http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
 
 Can you figure out what's going on with the body tag?
 
