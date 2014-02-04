@@ -154,9 +154,25 @@ Try changing these values. Play with the pixel size until you get the right widt
 
 Add the following header to your card beneath the opening `<body>` tag:
 
-<h1>
+```html
+<h1>Happy Valentine's Day<h1>
+```
 
-Helvetica Neue, Thin, 68px
+Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1>` is the main heading and the remaining headings decrease in size, with `<h6>` being the smallest. It's best practice to use the `<h1>` tag only once per page, while the other tags can be used any number of times, but they should always be in order. In other words, `<h3>` should be a sub-heading of `<h2>` and `<h4>` should be a sub-heading of `<h3>`, and so forth. 
+
+Next, add a CSS selector to the opening `<h1>` tag:
+
+```html
+<h1 class="header">
+```
+
+With this tag, we can assign styles to it by referencing the tag in our CSS stylesheet:
+
+```css
+font-family: "Helvetica Neue";
+font-style: thin;
+font-size 68px;
+```
 
 #### Image
 
