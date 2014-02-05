@@ -29,7 +29,7 @@ Now let's turn to an actual web page ...
 
 IMAGE (http://cssdeck.com/labs/full/u3hephct)
 
-The image above is an example of what you're going to be creating, which you will be customizing with HTML and CSS. 
+The image above is an example of what we're going to be creating, with just HTML and CSS. 
 
 ### Setup
 
