@@ -169,7 +169,7 @@ Next, add a CSS selector to the opening `<h1>` tag:
 With this tag, we can assign styles to it by referencing it in our CSS stylesheet:
 
 ```css
-.header {
+h1 {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
   font-size: 68px;
   text-align: center;
