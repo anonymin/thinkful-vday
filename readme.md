@@ -153,6 +153,43 @@ Kind of bland. We can quickly change that with CSS!
 
 ### Our Card's Style (CSS)
 
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  border: 20px solid #fcd2d8;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header {
+  font-size: 68px;
+  margin-top: 50px;
+}
+
+.msg {
+  font-style: italic;
+  font-size: 36px;
+  color: #f12469;
+  margin-top: 50px;
+}
+
+.button {
+  border-radius: 30px;
+  height: 40px;
+  width: 335px; 
+  background-color: #f12469;
+  font-size: 20px;
+  color: #ffffff;
+  margin:0 auto;
+  padding-top: 15px;
+  margin-bottom: 50px;
+}
+
+#### Header
+
 ### Sharing
 
 Show that you care.
