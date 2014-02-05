@@ -78,7 +78,7 @@ Add a the following element to the page within the `<body>` tags:
 <h1>Hello, World<h1>
 ```
 
-Check out the preview pane. You should see the header you just added.
+Check out the preview pane. You should see the header text, "Hello, World".
 
 Congrats! You just made your first webpage.
 

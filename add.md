@@ -1,4 +1,4 @@
----------------------------------
+
 
 
 #### Border
@@ -13,18 +13,7 @@ The border property contains the following values -
 
 Try changing these values. Play with the pixel size until you get the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color [here](http://color.hailpixel.com/). *Developer hint:* Use that special someone's favorite color!
 
-#### Header
 
-
-update to paragraph ...
-
-Add the following header to your card beneath the opening `<body>` tag:
-
-```html
-<h1>Happy Valentine's Day<h1>
-```
-
-Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1>` is the main heading and the remaining headings decrease in size, with `<h6>` being the smallest. It's best practice to use the `<h1>` tag only once per page, while the other tags can be used any number of times, but they should always be in order. In other words, `<h3>` should be a sub-heading of `<h2>` and `<h4>` should be a sub-heading of `<h3>`, and so forth. 
 
 Next, add a CSS selector to the opening `<h1>` tag:
 
@@ -43,51 +32,6 @@ h1 {
 }
 ```
 
-EXPLANATION
-
-#### Image
-
-
-
-#### Paragraph Text
-
-#### Button
-
-### Sharing
-
-Show that you care.
-
-### Next Steps
-
-### Conclusion
-
-
-
-
-
-
-
-Let's look at a quick example before building our card. 
-
-#### HTML
-
-The following HTML code displays the text, "Hello, World".
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Bootstrap 101 Template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-    <div class="container">
-      <h1>Hello, world</h1>
-    </div>
-  </body>
-</html>
-```
 
 
 
