@@ -39,23 +39,21 @@ You should see four panes. The three smaller panes on the left are for entering 
 
 ### Our Card
 
-We'll be using the following HTML elements to develop our card-
-- Header Text
-- Image
-- Paragraph Text 
-- Button
+We'll be using the following HTML tags to develop our card-
+- Header: `<h1>`
+- Image: `<img>`
+- Paragraph: `<p>`
+- Divider: `<div>`
+- Anchor: `<a>`
 
-Each of the elements will be styled using CSS. We'll also be applying a border, which is stictly a CSS style.
+Each of the tags will be styled using CSS. We'll also be applying a border around the entire webpage, which is stictly a CSS style.
 
-Start by creating a new development environment on CSSDeck. 
-
-#### Add boilerplate
+#### Add basic structure
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
@@ -63,7 +61,27 @@ Start by creating a new development environment on CSSDeck.
 </html>
 ```
 
-This is similar to the previous example only now we have a blank canvas to work with.
+Copy and paste this basic webpage structure into the HTML pane within CSSDeck. This structure is commonly referred to as a boilerplate template. These are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
+
+**What's going on?**
+
+1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case).
+2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
+3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines.
+4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
+
+This is how a standard HTML page is structured.
+
+Add a the following element to the page within the `<body>` tags:
+
+```html
+<h1>Hello, World<h1>
+```
+
+Check out the preview pane. You should see the header you just added.
+
+Congrats! You just made your first webpage.
+
 
 #### Page title
 
@@ -161,18 +179,8 @@ The following HTML code displays the text, "Hello, World".
 </html>
 ```
 
-**What's going on?**
 
-1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case). Without this, browsers can get confused.
-2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
-3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines for classification.
-4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
 
-This is how a standard HTML page is structured.
-
-Copy this code in the HTML pane on CSSDeck. You should see the text "Hello, World" in the preview pane.
-
-Next, let's add some styles.
 
 #### CSS
 
