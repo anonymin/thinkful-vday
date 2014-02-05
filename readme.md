@@ -118,11 +118,24 @@ Insert an image just below the header:
 
 Say something sweet. Add some paragraph text:
 
+```html
 <p>Write your personal message here</p>
+```
 
 [http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
 
-
 #### Button
+
+Finally, let's create a button that links to a video:
+
+```html
+<div>click here to get your present<div>
+```
+
+Doesn't look much like a button yet.
+
+[http://cssdeck.com/labs/1opjhgbg](http://cssdeck.com/labs/1opjhgbg)
+
+
 
 ### Our Card's Style (CSS)
