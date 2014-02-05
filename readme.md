@@ -139,7 +139,7 @@ Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
 
 ####
 
-Finally, surround the button with a link:
+Finally, surround the button - e.g., `<div>` - with a link:
 
 ```html
 <a href="/"><div>click here to get your present<div></a>
