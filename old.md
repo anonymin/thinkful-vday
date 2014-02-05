@@ -23,7 +23,7 @@ Websites are made up of many things, but HTML (Hyper Text Markup Language) and C
 
 Think of a greeting card. It's made up of many attributes, like text, an image, and perhaps a poem of sorts. In the world of HTML, such attributes are the elements of a webpage. Meanwhile, each of the card's attributes are usually different. Perhaps they differ by size. Or shape. Or color. Back in the web world, CSS is used to define the look and feel of a webpage. 
 
-> Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty. LINK TO HTML/CSS BASICS TUTORIAL
+> Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty.
 
 Now let's turn to an actual web page ..
 
@@ -33,11 +33,11 @@ The image above is an example of what you're going to be creating. As you probab
 
 Let's begin.
 
-### Setup
+### Development Environment 
 
-For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new environment for us to work in. 
+For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new development environment. 
 
-You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
+You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a quick preview of the entered code.
 
 Let's look at a quick example before building our card. 
 
