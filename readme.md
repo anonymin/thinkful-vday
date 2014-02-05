@@ -82,12 +82,26 @@ Check out the preview pane. You should see the header you just added.
 
 Congrats! You just made your first webpage.
 
+[http://cssdeck.com/labs/kz8sc3zw](http://cssdeck.com/labs/kz8sc3zw)
+
 #### Page title
 
-Add a title to your card between in the page head (`<head></head>`). 
+Add a title to your card between in the page head (`<head></head>`): 
 
 ```html
 <title>Happy Valentine's Day!</title>
 ```
+
+#### Header
+
+Update the header in your card to:
+
+```html
+<h1>Happy Valentine's Day<h1>
+```
+
+[http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
+
+Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1>` is the main heading and the remaining headings decrease in size, with `<h6>` being the smallest. It's best practice to use the `<h1>` tag only once per page, while the other tags can be used any number of times, but they should always be in order. In other words, `<h3>` should be a sub-heading of `<h2>` and `<h4>` should be a sub-heading of `<h3>`, and so forth. 
 
 ### Our Card's Style (CSS)
