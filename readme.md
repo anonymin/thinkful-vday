@@ -37,7 +37,7 @@ For this tutorial we will be using an online HTML, CSS, and Javascript code edit
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
 
-### Our Card
+### Our Card's Structure (HTML)
 
 We'll be using the following HTML tags to develop our card-
 - Header: `<h1>`
@@ -82,14 +82,21 @@ Check out the preview pane. You should see the header you just added.
 
 Congrats! You just made your first webpage.
 
-
 #### Page title
 
-Add a title to your card. 
+Add a title to your card between in the page head (`<head></head>`). 
 
 ```html
 <title>Happy Valentine's Day!</title>
 ```
+
+### Our Card's Style (CSS)
+
+
+
+
+---------------------------------
+
 
 #### Border
 
@@ -98,7 +105,7 @@ body {
   border: 20px solid #fcd2d8;  
 }
 ```
-The border property contactins the following values - 
+The border property contains the following values - 
 `border-width` `border-style` `border-color`
 
 Try changing these values. Play with the pixel size until you get the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color [here](http://color.hailpixel.com/). *Developer hint:* Use that special someone's favorite color!
@@ -205,7 +212,3 @@ body {
   > http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
 
 Can you figure out what's going on with the body tag?
-
-Copy and paste this code into the CSS pane of CSSDeck. Check out the preview.
-
-Congrats. You just made your first webpage!
