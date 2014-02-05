@@ -126,7 +126,7 @@ Say something sweet. Add some paragraph text:
 
 #### Button
 
-Finally, let's create a button that links to a video:
+Let's create a button that links to a video:
 
 ```html
 <div>click here to get your present<div>
@@ -136,6 +136,15 @@ Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
 
 [http://cssdeck.com/labs/1opjhgbg](http://cssdeck.com/labs/1opjhgbg)
 
+####
+
+Finally, surround the button with a link:
+
+```html
+<a href="/"><div>click here to get your present<div></a>
+```
+
+[http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
 
 
 ### Our Card's Style (CSS)
