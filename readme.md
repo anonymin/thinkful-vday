@@ -25,82 +25,17 @@ Think of a greeting card. It's made up of many attributes, like text, an image, 
 
 > Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty. LINK TO HTML/CSS BASICS TUTORIAL
 
-Now let's turn to an actual web page ..
+Now let's turn to an actual web page ...
 
-IMAGE
+IMAGE (http://cssdeck.com/labs/full/u3hephct)
 
-The image above is an example of what you're going to be creating. As you probably have already guessed you will be customizing this using HTML and CSS. 
-
-Let's begin.
+The image above is an example of what you're going to be creating, which you will be customizing with HTML and CSS. 
 
 ### Setup
 
 For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new environment for us to work in. 
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
-
-Let's look at a quick example before building our card. 
-
-#### HTML
-
-The following HTML code displays the text, "Hello, World".
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Bootstrap 101 Template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
-  </head>
-  <body>
-    <div class="container">
-      <h1>Hello, world</h1>
-    </div>
-  </body>
-</html>
-```
-
-**What's going on?**
-
-1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case). Without this, browsers can get confused.
-2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
-3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines for classification.
-4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
-
-This is how a standard HTML page is structured.
-
-Copy this code in the HTML pane on CSSDeck. You should see the text "Hello, World" in the preview pane.
-
-Next, let's add some styles.
-
-#### CSS
-
-The following is a what a standard CSS stylesheet looks like:
-
-```css
-.container {
-  padding-top: 50px;
-}
-
-body {
-  background-color: yellow;
-}
-```
-
-**What's going on?**
-
-1. The `.container` selector is associated with the same selector in our HTML document (check it out), followed by curly braces.
-2. Inside the curly braces, we have a properties, which are descriptive words, like font-weight, font-size, or background color. In our case, we have `padding-top`.
-3. Values are then assigned to each property, which are preceded by a colon and followed by a semi-colon. 
-
-  > http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
-
-Can you figure out what's going on with the body tag?
-
-Copy and paste this code into the CSS pane of CSSDeck. Check out the preview.
-
-Congrats. You just made your first webpage!
 
 ### V-Day Card
 
@@ -197,3 +132,72 @@ Show that you care.
 ### Next Steps
 
 ### Conclusion
+
+
+
+
+
+
+
+Let's look at a quick example before building our card. 
+
+#### HTML
+
+The following HTML code displays the text, "Hello, World".
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Hello, world</h1>
+    </div>
+  </body>
+</html>
+```
+
+**What's going on?**
+
+1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case). Without this, browsers can get confused.
+2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
+3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines for classification.
+4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
+
+This is how a standard HTML page is structured.
+
+Copy this code in the HTML pane on CSSDeck. You should see the text "Hello, World" in the preview pane.
+
+Next, let's add some styles.
+
+#### CSS
+
+The following is a what a standard CSS stylesheet looks like:
+
+```css
+.container {
+  padding-top: 50px;
+}
+
+body {
+  background-color: yellow;
+}
+```
+
+**What's going on?**
+
+1. The `.container` selector is associated with the same selector in our HTML document (check it out), followed by curly braces.
+2. Inside the curly braces, we have a properties, which are descriptive words, like font-weight, font-size, or background color. In our case, we have `padding-top`.
+3. Values are then assigned to each property, which are preceded by a colon and followed by a semi-colon. 
+
+  > http://cssvalues.com/ is an excellent resource for finding the acceptable values given a CSS property. 
+
+Can you figure out what's going on with the body tag?
+
+Copy and paste this code into the CSS pane of CSSDeck. Check out the preview.
+
+Congrats. You just made your first webpage!
