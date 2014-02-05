@@ -116,6 +116,13 @@ Insert an image just below the header:
 
 #### Paragraph Text
 
+Say something sweet. Add some paragraph text:
+
+<p>Write your personal message here</p>
+
+[http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
+
+
 #### Button
 
 ### Our Card's Style (CSS)
