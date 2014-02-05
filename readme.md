@@ -94,7 +94,7 @@ Add a title to your card between in the page head (`<head></head>`):
 
 #### Header
 
-Update the header in your card to:
+Update the header in your card:
 
 ```html
 <h1>Happy Valentine's Day<h1>
