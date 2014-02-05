@@ -37,9 +37,9 @@ For this tutorial we will be using an online HTML, CSS, and Javascript code edit
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
 
-### V-Day Card
+### Our Card
 
-Now let's develop our card using the following HTML elements-
+We'll be using the following HTML elements to develop our card-
 - Header Text
 - Image
 - Paragraph Text 
