@@ -132,7 +132,7 @@ Finally, let's create a button that links to a video:
 <div>click here to get your present<div>
 ```
 
-Doesn't look much like a button yet.
+Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
 
 [http://cssdeck.com/labs/1opjhgbg](http://cssdeck.com/labs/1opjhgbg)
 
