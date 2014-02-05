@@ -40,6 +40,7 @@ You should see four panes. The three smaller panes on the left are for entering 
 ### Our Card's Structure (HTML)
 
 We'll be using the following HTML tags to develop our card-
+- Title: `<title>`
 - Header: `<h1>`
 - Image: `<img>`
 - Paragraph: `<p>`
@@ -146,6 +147,9 @@ Finally, surround the button with a link:
 
 [http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
 
+Well, we've added all the HTML structure to our page. Check out the fullscreen preview [here](http://cssdeck.com/labs/full/m9d3pqjy).
+
+Kind of bland. We can quickly change that with CSS!
 
 ### Our Card's Style (CSS)
 
