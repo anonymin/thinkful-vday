@@ -124,7 +124,7 @@ Let's create a button using the divider tag that will link to a video:
 <div>click here to get your present</div>
 ```
 
-Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
+Doesn't look much like a button yet. It will soon. Trust me.
 
 [http://cssdeck.com/labs/1opjhgbg](http://cssdeck.com/labs/1opjhgbg)
 
