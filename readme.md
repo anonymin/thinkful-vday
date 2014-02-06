@@ -106,11 +106,12 @@ Insert an image just below the main heading:
 
 #### Paragraph Text
 
-Say something sweet. Add some paragraph text:
+Say something sweet. Write your personal message within the paragraph text:
 
 ```html
 <p>Write your personal message here</p>
 ```
+> Tip: Replace "Write your personal message here" with your actual message. :)
 
 [http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
 
