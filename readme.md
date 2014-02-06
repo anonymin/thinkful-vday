@@ -159,7 +159,6 @@ We're going to add three selectors to our HTML page:
 2. `.msg`
 3. `.button`
 
-
 Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8vf9o).
 
 ### Header
@@ -216,6 +215,8 @@ Let's make that button look like a button:
   margin-bottom: 50px;
 }
 ```
+
+> Have some fun with this. Change the `background-color` and well as the font `color`.
 
 [http://cssdeck.com/labs/zh2itiuj](http://cssdeck.com/labs/zh2itiuj)
 
