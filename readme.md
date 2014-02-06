@@ -23,7 +23,7 @@ Websites are made up of many things, but HTML (Hyper Text Markup Language) and C
 
 Think of a greeting card. It's made up of many attributes, like text, an image, and perhaps a poem of sorts. In the world of HTML, such attributes are the elements of a webpage. Meanwhile, each of the card's attributes are usually different. Perhaps they differ by size. Or shape. Or color. Back in the web world, CSS is used to define the look and feel of a webpage. 
 
-> Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty. LINK TO HTML/CSS BASICS TUTORIAL
+> Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty. **For more information on HTML and CSS basics, check put [these](http://www.htmldog.com/guides/) beginner tutorials.**
 
 Now let's turn to an actual web page ...
 
