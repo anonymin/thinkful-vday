@@ -62,7 +62,9 @@ Each of the tags will be styled using CSS. We'll also be applying a border aroun
 </html>
 ```
 
-Copy and paste this basic webpage structure into the HTML pane within CSSDeck. This structure is commonly referred to as a boilerplate template. These are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
+Copy and paste this basic webpage structure into the HTML pane within CSSDeck. 
+
+This structure is commonly referred to as a boilerplate template. These are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
 
 **What's going on?**
 
@@ -174,6 +176,8 @@ We're going to add three selectors to our HTML page:
 }
 ```
 
+Copy and paste this into the CSS pane within CSSDeck.
+
 **What's going on?**
 
 1. We have the `#header` selector, which is associated with the selector in our HTML document, followed by curly braces.
@@ -182,10 +186,14 @@ We're going to add three selectors to our HTML page:
 
 > Tip: http://cssvalues.com/ is an excellent resource for finding the applicable values given a CSS property.
 
+[http://cssdeck.com/labs/brkeecsj](http://cssdeck.com/labs/brkeecsj)
+
 #### Paragraph Text
 
-```
-.msg {
+Update the style of your personal message:
+
+```css
+#msg {
   font-style: italic;
   font-size: 36px;
   color: #f12469;
@@ -193,10 +201,14 @@ We're going to add three selectors to our HTML page:
 }
 ```
 
+[http://cssdeck.com/labs/brkeecsj](http://cssdeck.com/labs/brkeecsj)
+
 #### Divider
 
-```
-.button {
+Let's make that button look like a button:
+
+```css
+#button {
   border-radius: 30px;
   height: 40px;
   width: 335px; 
@@ -208,6 +220,10 @@ We're going to add three selectors to our HTML page:
   margin-bottom: 50px;
 }
 ```
+
+[http://cssdeck.com/labs/zh2itiuj](http://cssdeck.com/labs/zh2itiuj)
+
+The text is still a bit .. off. Let's fix that.
 
 #### Additional CSS
 
@@ -224,10 +240,16 @@ a {
 }
 ```
 
+[http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
+
 ### Sharing
 
 Show that you care.
 
+Full screen [http://cssdeck.com/labs/full/npulm7vr](http://cssdeck.com/labs/full/npulm7vr)
+
 ### Next Steps
+
+Don't wait until the last minute. Get started on your St. Patrick's day card now.
 
 ### Conclusion
