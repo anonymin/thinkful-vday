@@ -115,7 +115,7 @@ Say something sweet. Write your personal message within the paragraph text:
 ```html
 <p>Write your personal message here</p>
 ```
-> Tip: Replace "Write your personal message here" with your actual message. :)
+> Tip: Replace "Write your personal message here" with your actual message. :) Perhaps: "You are the HTML to my CSS."
 
 [http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
 
