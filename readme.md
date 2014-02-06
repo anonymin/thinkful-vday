@@ -153,7 +153,8 @@ We're going to add three selectors to our HTML page:
 2. `.msg`
 3. `.button`
 
-[http://cssdeck.com/labs/epx8vf9o](http://cssdeck.com/labs/epx8vf9o)
+
+Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8vf9o).
 
 #### Header
 
