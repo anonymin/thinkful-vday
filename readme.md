@@ -243,8 +243,9 @@ Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the UR
 
 ### Next Steps
 
-- Did you customize the card? Do it again. Share it again. That special person in your life deserves it, right?
+- Did you customize the card? Do it again. Share it again. That special person deserves it, right?
 - Need a challenge? Don't wait until the last minute. Get started on your St. Patrick's day card now!
+- Not enough? Check out [this](http://www.thinkful.com/learn/intro-to-jquery) awesome Javascript/jQuery tutorial.
 
 ### Conclusion
 
