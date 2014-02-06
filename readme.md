@@ -143,7 +143,11 @@ You also need to add a link in. Perhaps something [like](http://www.youtube.com/
 
 [http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
 
-Well, we've added all the HTML structure to our page. Check out the fullscreen preview [here](http://cssdeck.com/labs/full/m9d3pqjy).
+Well, we've added all the HTML structure to our page:
+
+![after_html](https://raw.github.com/mjhea0/thinkful-vday/master/images/after_html.png)
+
+Check out the fullscreen preview [here](http://cssdeck.com/labs/full/m9d3pqjy).
 
 Kind of bland, to put it nicely. Fortunately, we can quickly change that with CSS!
 
@@ -247,9 +251,8 @@ Try changing the border values. Play with the pixel size until you get it the ri
 
 ## Sharing
 
-Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the URL for the "Full Screen Result." Then email/tweet/post the link to that special person in your life. 
+Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the URL for the "Full Screen Result." Then email/tweet/post the [link](http://cssdeck.com/labs/full/npulm7vr) to that special person in your life. 
 
-[http://cssdeck.com/labs/full/npulm7vr](http://cssdeck.com/labs/full/npulm7vr)
 
 ## Next Steps
 
