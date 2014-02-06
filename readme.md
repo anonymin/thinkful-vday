@@ -143,7 +143,7 @@ Finally, surround the divider tags with an `<a>` tag to create a link:
 
 Well, we've added all the HTML structure to our page. Check out the fullscreen preview [here](http://cssdeck.com/labs/full/m9d3pqjy).
 
-Kind of bland. Fortunately, we can quickly change that with CSS!
+Kind of bland, to put it nicely. Fortunately, we can quickly change that with CSS!
 
 ## Our Card's Style (CSS)
 
