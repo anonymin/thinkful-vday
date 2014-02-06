@@ -121,7 +121,7 @@ Say something sweet. Write your personal message within the paragraph text:
 
 ### Divider
 
-Let's create a button using the divider tag that will link somewhere like ...:
+Let's create a button using the divider tag:
 
 ```html
 <div>click here to get your present</div>
@@ -138,6 +138,8 @@ Finally, surround the divider tags with an `<a>` tag to create a link:
 ```html
 <a href="/"><div>click here to get your present</div></a>
 ```
+
+You also need to add a link in. Perhaps something [like](http://www.youtube.com/watch?v=WTGUjRJiqik). Or maybe to a dinner reservation confirmation page. Or maybe you could break out the guitare and create your own video! <3
 
 [http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
 
