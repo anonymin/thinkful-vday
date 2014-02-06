@@ -12,7 +12,7 @@ Think of a greeting card. It's made up of many attributes, like text, an image, 
 
 Now let's turn to an actual web page ...
 
-IMAGE (http://cssdeck.com/labs/full/u3hephct)
+IMAGE (http://cssdeck.com/labs/full/npulm7vr)
 
 The image above is an example of what we're going to be creating, using just HTML and CSS. 
 
@@ -20,7 +20,7 @@ The image above is an example of what we're going to be creating, using just HTM
 
 For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new environment for us to work in. 
 
-You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, and/or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
+You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
 
 ### Our Card's Structure (HTML)
 
