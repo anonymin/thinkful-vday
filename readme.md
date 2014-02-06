@@ -49,7 +49,7 @@ Many of these tags will be styled using CSS. We'll also be applying a border aro
 
 Copy and paste this basic webpage structure into the HTML pane within CSSDeck. 
 
-This structure is commonly referred to as a boilerplate template. These are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
+This structure is commonly referred to as a boilerplate template. Such templates are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
 
 **What's going on?**
 
