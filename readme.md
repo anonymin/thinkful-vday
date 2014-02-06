@@ -74,11 +74,13 @@ Congrats! You just made a webpage. (Your first?!)
 
 #### Title
 
-Add a title to your card between in the page head (`<head></head>`): 
+Add a title to your card between the opening, `<head>`, and closing, `</head>`, head tags: 
 
 ```html
 <title>Happy Valentine's Day!</title>
 ```
+
+[http://cssdeck.com/labs/vbulvnam](http://cssdeck.com/labs/vbulvnam)
 
 #### Header
 
