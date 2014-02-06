@@ -32,7 +32,7 @@ We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/begi
 - Divider: `<div>`
 - Anchor: `<a>`
 
-Each of the tags will be styled using CSS. We'll also be applying a border around the entire webpage, which is stictly a CSS style.
+Many of these tags will be styled using CSS. We'll also be applying a border around the entire webpage, which is stictly a CSS style.
 
 #### Add basic structure
 
