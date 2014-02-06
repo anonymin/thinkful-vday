@@ -236,7 +236,9 @@ a {
 }
 ```
 
-Try changing the border values. Play with the pixel size until you get it the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color [here](http://color.hailpixel.com/). *Pro Tip: Use that special someone's favorite color! (You should know this ... if not, find out quickly.)*
+Try changing the border values. Play with the pixel size until you get it the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color [here](http://color.hailpixel.com/). 
+
+> Pro Tip: Use that special someone's favorite color! (You should know this ... if not, find out quickly.)
 
 [http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
 
