@@ -153,6 +153,20 @@ Kind of bland. We can quickly change that with CSS!
 
 ### Our Card's Style (CSS)
 
+From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
+
+CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using selectors. 
+
+We're going to add four selectors to our HTML page:
+
+1. `.header`
+2. `.msg`
+3. `.button`
+4. `.link`
+
+
+
+
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
   border: 20px solid #fcd2d8;
