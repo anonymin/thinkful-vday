@@ -176,7 +176,7 @@ Copy and paste this into the CSS pane within CSSDeck.
 
 > Tip: http://cssvalues.com/ is an excellent resource for finding the applicable values given a CSS property.
 
-[http://cssdeck.com/labs/brkeecsj](http://cssdeck.com/labs/brkeecsj)
+[http://cssdeck.com/labs/ej1kciif](http://cssdeck.com/labs/ej1kciif)
 
 #### Paragraph Text
 
