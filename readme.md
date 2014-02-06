@@ -24,7 +24,7 @@ You should see four panes. The three smaller panes on the left are for entering 
 
 ### Our Card's Structure (HTML)
 
-We'll be using the following HTML tags to develop our card:
+We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/beginner/tags/) to develop our card:
 - Title: `<title>`
 - Header: `<h1>`
 - Image: `<img>`
