@@ -29,7 +29,7 @@ Now let's turn to an actual web page ...
 
 IMAGE (http://cssdeck.com/labs/full/u3hephct)
 
-The image above is an example of what we're going to be creating, with just HTML and CSS. 
+The image above is an example of what we're going to be creating, using just HTML and CSS. 
 
 ### Setup
 
@@ -81,7 +81,7 @@ Add a the following element to the page within the `<body>` tags:
 
 Check out the preview pane. You should see the header text, "Hello, World".
 
-Congrats! You just made your first webpage.
+Congrats! You just made a webpage. (Your first?!)
 
 [http://cssdeck.com/labs/kz8sc3zw](http://cssdeck.com/labs/kz8sc3zw)
 
@@ -168,11 +168,19 @@ We're going to add three selectors to our HTML page:
 #### Header
 
 ```css
-.header {
+#header {
   font-size: 68px;
   margin-top: 50px;
 }
 ```
+
+**What's going on?**
+
+1. We have the `#header` selector, which is associated with the selector in our HTML document, followed by curly braces.
+2. Inside the curly braces, we have properties, which are descriptive words, like font-weight, font-size, or background color. In our case, we have `font-size` and `margin-top`.
+3. Values are then assigned to each property, which are preceded by a colon and followed by a semi-colon. 
+
+> Tip: http://cssvalues.com/ is an excellent resource for finding the applicable values given a CSS property.
 
 #### Paragraph Text
 
