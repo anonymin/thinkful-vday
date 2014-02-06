@@ -145,7 +145,7 @@ Kind of bland. Fortunately, we can quickly change that with CSS!
 
 From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
 
-CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). 
+CSS and HTML work in tandem (Again, like you and your partner). CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). 
 
 We're going to add three selectors to our HTML page:
 
