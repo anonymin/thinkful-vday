@@ -219,7 +219,9 @@ The text is still a bit .. off. Let's fix that.
 ```css
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
-  border: 20px solid #fcd2d8;
+  border-size: 20px; 
+  border-style: solid; 
+  border-color: #fcd2d8;
   text-align: center;
 }
 
@@ -228,6 +230,8 @@ a {
   text-decoration: none;
 }
 ```
+
+Try changing the border values. Play with the pixel size until you get it the right width. Try a `dashed` or `dotted` value for the style, and find a pretty color here. *Pro Tip: Use that special someone's favorite color!*
 
 [http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
 
