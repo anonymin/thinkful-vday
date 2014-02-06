@@ -76,7 +76,7 @@ This is how a standard HTML page is structured.
 Add a the following element to the page within the `<body>` tags:
 
 ```html
-<h1>Hello, World<h1>
+<h1>Hello, World</h1>
 ```
 
 Check out the preview pane. You should see the header text, "Hello, World".
@@ -98,7 +98,7 @@ Add a title to your card between in the page head (`<head></head>`):
 Update the header in your card:
 
 ```html
-<h1>Happy Valentine's Day<h1>
+<h1>Happy Valentine's Day</h1>
 ```
 
 [http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
@@ -130,7 +130,7 @@ Say something sweet. Add some paragraph text:
 Let's create a button using the divider tag that will link to a video:
 
 ```html
-<div>click here to get your present<div>
+<div>click here to get your present</div>
 ```
 
 Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
@@ -142,7 +142,7 @@ Doesn't look much like a button yet. *Hint: That's where CSS comes into play.**
 Finally, surround the button - e.g., `<div>` - with a link:
 
 ```html
-<a href="/"><div>click here to get your present<div></a>
+<a href="/"><div>click here to get your present</div></a>
 ```
 
 [http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
