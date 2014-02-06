@@ -117,7 +117,7 @@ Say something sweet. Write your personal message within the paragraph text:
 
 #### Divider
 
-Let's create a button using the divider tag that will link to a video:
+Let's create a button using the divider tag that will link *somewhere* (possibly to a witty video):
 
 ```html
 <div>click here to get your present</div>
