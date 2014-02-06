@@ -94,9 +94,11 @@ Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1
 
 [http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
 
+> Want it to say something different? Just change the text between the tags!
+
 #### Image
 
-Insert an image just below the header:
+Insert an image just below the main heading:
 
 ```html
 <img src="http://i.imgur.com/a2tjOcm.png">
