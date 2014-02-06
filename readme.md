@@ -146,7 +146,7 @@ Kind of bland. We can quickly change that with CSS!
 
 From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
 
-CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using selectors. 
+CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). 
 
 We're going to add three selectors to our HTML page:
 
@@ -212,7 +212,7 @@ Let's make that button look like a button:
 
 [http://cssdeck.com/labs/zh2itiuj](http://cssdeck.com/labs/zh2itiuj)
 
-The text is still a bit .. off. Let's fix that.
+The text is still a bit off. Let's fix that.
 
 #### Additional CSS
 
@@ -237,12 +237,18 @@ Try changing the border values. Play with the pixel size until you get it the ri
 
 ### Sharing
 
-Show that you care.
+Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the URL for the "Full Screen Result." Then email/tweet/post the link to that special person in your life. 
 
-Full screen [http://cssdeck.com/labs/full/npulm7vr](http://cssdeck.com/labs/full/npulm7vr)
+[http://cssdeck.com/labs/full/npulm7vr](http://cssdeck.com/labs/full/npulm7vr)
 
 ### Next Steps
 
-Don't wait until the last minute. Get started on your St. Patrick's day card now.
+- Did you customize the card? Do it again. Share it again. That special person in your life deserves it, right?
+- Need a challenge? Don't wait until the last minute. Get started on your St. Patrick's day card now!
 
 ### Conclusion
+
+Thank you so much for reading. Leave questions/comments/issues/concerns below. 
+
+Cheers!
+
