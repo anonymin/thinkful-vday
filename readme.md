@@ -94,9 +94,9 @@ Update the [heading](http://www.htmldog.com/guides/html/beginner/headings/) in y
 
 Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1>` is the main heading and the remaining headings decrease in size, with `<h6>` being the smallest. It's best practice to use the `<h1>` tag only once per page, while the other tags can be used any number of times, but they should always be in order. In other words, `<h3>` should be a sub-heading of `<h2>` and `<h4>` should be a sub-heading of `<h3>`, and so forth. 
 
-[http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
-
 > Want it to say something different? Just change the text between the tags!
+
+[http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
 
 ### Image
 
