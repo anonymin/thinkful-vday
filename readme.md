@@ -1,6 +1,6 @@
 # Make your valentine's day special with HTML and CSS
 
-Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life. (But you may want to buy flowers or chocolate, as well).
+Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life. (Disclaimer: To ensure the wow factor you may want to buy flowers or chocolate, as well).
 
 ## HTML and CSS
 
@@ -259,7 +259,7 @@ Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the UR
 
 ## Conclusion
 
-Thank you so much for reading. Leave questions/comments/issues/concerns below. Also, show off your skills - paste the link to your card below. 
+Thank you so much for reading. Leave questions/comments/issues/concerns below. Oh, and let us know if the card helps out this Valentine's Day.
 
 Cheers!
 
