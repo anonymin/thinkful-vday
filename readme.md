@@ -157,39 +157,37 @@ From the size of the text to the background colors to the positioning of HTML el
 
 CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using selectors. 
 
-We're going to add four selectors to our HTML page:
+We're going to add three selectors to our HTML page:
 
 1. `.header`
 2. `.msg`
 3. `.button`
-4. `.link`
 
+[http://cssdeck.com/labs/epx8vf9o](http://cssdeck.com/labs/epx8vf9o)
 
+#### Header
 
-
-body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
-  border: 20px solid #fcd2d8;
-  text-align: center;
-}
-
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
+```css
 .header {
   font-size: 68px;
   margin-top: 50px;
 }
+```
 
+#### Paragraph Text
+
+```
 .msg {
   font-style: italic;
   font-size: 36px;
   color: #f12469;
   margin-top: 50px;
 }
+```
 
+#### Divider
+
+```
 .button {
   border-radius: 30px;
   height: 40px;
@@ -201,8 +199,22 @@ a {
   padding-top: 15px;
   margin-bottom: 50px;
 }
+```
 
-#### Header
+#### Additional CSS
+
+```css
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  border: 20px solid #fcd2d8;
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+```
 
 ### Sharing
 
