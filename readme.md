@@ -22,6 +22,10 @@ For this tutorial we will be using an online HTML, CSS, and Javascript code edit
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
 
+### Workflow
+
+We will be creating this was page iteratively, step by step. In other words, we'll add a line of code then discuss what it does. I've included links to the updated code after each step. If you get stuck, please comment below.
+
 ### Our Card's Structure (HTML)
 
 We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/beginner/tags/) to develop our card:
