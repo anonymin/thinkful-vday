@@ -1,4 +1,4 @@
-# TITLE GOES HERE
+# Make your valentine's day special with HTML and CSS
 
 Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life. (But you may want to buy flowers or chocolate, as well).
 
