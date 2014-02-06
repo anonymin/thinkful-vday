@@ -12,9 +12,9 @@ Think of a greeting card. It's made up of many attributes, like text, an image, 
 
 Now let's turn to an actual web page ...
 
-IMAGE (http://cssdeck.com/labs/full/npulm7vr)
+![final_card](https://raw.github.com/mjhea0/thinkful-vday/master/images/final_card.png)
 
-The image above is an example of what we're going to be creating, using just HTML and CSS. 
+The image above is an example of what we're going to be creating, using just HTML and CSS. You can also view the webpage [here](http://cssdeck.com/labs/full/npulm7vr).
 
 ### Setup
 
