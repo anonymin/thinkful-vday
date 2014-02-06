@@ -74,7 +74,7 @@ Congrats! You just made a webpage. (Your first?!)
 
 #### Title
 
-Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card between the opening, `<head>`, and closing, `</head>`, head tags: 
+Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card between the opening and closing `<head>` tags: 
 
 ```html
 <title>Happy Valentine's Day!</title>
