@@ -26,7 +26,7 @@ You should see four panes. The three smaller panes on the left are for entering 
 
 We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/beginner/tags/) to develop our card:
 - Title: `<title>`
-- Header: `<h1>`
+- Heading: `<h1>`
 - Image: `<img>`
 - Paragraph: `<p>`
 - Divider: `<div>`
@@ -74,7 +74,7 @@ Congrats! You just made a webpage. (Your first?!)
 
 #### Title
 
-Add a title to your card between the opening, `<head>`, and closing, `</head>`, head tags: 
+Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card between the opening, `<head>`, and closing, `</head>`, head tags: 
 
 ```html
 <title>Happy Valentine's Day!</title>
@@ -82,17 +82,17 @@ Add a title to your card between the opening, `<head>`, and closing, `</head>`, 
 
 [http://cssdeck.com/labs/vbulvnam](http://cssdeck.com/labs/vbulvnam)
 
-#### Header
+#### Heading
 
-Update the header in your card:
+Update the [heading](http://www.htmldog.com/guides/html/beginner/headings/) in your card:
 
 ```html
 <h1>Happy Valentine's Day</h1>
 ```
 
-[http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
-
 Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1>` is the main heading and the remaining headings decrease in size, with `<h6>` being the smallest. It's best practice to use the `<h1>` tag only once per page, while the other tags can be used any number of times, but they should always be in order. In other words, `<h3>` should be a sub-heading of `<h2>` and `<h4>` should be a sub-heading of `<h3>`, and so forth. 
+
+[http://cssdeck.com/labs/62mmslgp](http://cssdeck.com/labs/62mmslgp)
 
 #### Image
 
