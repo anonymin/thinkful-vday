@@ -129,7 +129,7 @@ Doesn't look much like a button yet. It will soon. Trust me.
 
 ####
 
-Finally, surround the button - e.g., `<div>` - with a link:
+Finally, surround the divider tags with a link:
 
 ```html
 <a href="/"><div>click here to get your present</div></a>
