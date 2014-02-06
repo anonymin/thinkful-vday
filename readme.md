@@ -162,6 +162,7 @@ Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8
 #header {
   font-size: 68px;
   margin-top: 50px;
+  font-weight: normal;
 }
 ```
 
