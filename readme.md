@@ -259,7 +259,7 @@ Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the UR
 
 ## Conclusion
 
-Thank you so much for reading. Leave questions/comments/issues/concerns below. 
+Thank you so much for reading. Leave questions/comments/issues/concerns below. Also, show off your skills - paste the link to your card below. 
 
 Cheers!
 
