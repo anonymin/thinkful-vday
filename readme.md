@@ -80,8 +80,6 @@ Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card 
 <title>Happy Valentine's Day!</title>
 ```
 
-[http://cssdeck.com/labs/vbulvnam](http://cssdeck.com/labs/vbulvnam)
-
 #### Heading
 
 Update the [heading](http://www.htmldog.com/guides/html/beginner/headings/) in your card:
