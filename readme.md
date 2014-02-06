@@ -2,7 +2,7 @@
 
 Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life. (But you may want to buy flowers or chocolate, as well).
 
-### HTML and CSS
+## HTML and CSS
 
 Websites are made up of many things, but HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are the two main components. Together, like you and your partner, they are the building blocks for every single webpage on the Internet.
 
@@ -16,17 +16,17 @@ Now let's turn to an actual web page ...
 
 The image above is an example of what we're going to be creating, using just HTML and CSS. You can also view the webpage [here](http://cssdeck.com/labs/full/npulm7vr).
 
-### Setup
+## Setup
 
 For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new environment for us to work in. 
 
 You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
 
-### Workflow
+## Workflow
 
 We will be creating this was page iteratively, step by step. In other words, we'll add a line of code then discuss what it does. I've included links to the updated code after each step. If you get stuck, please comment below.
 
-### Our Card's Structure (HTML)
+## Our Card's Structure (HTML)
 
 We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/beginner/tags/) to develop our card:
 - Title: `<title>`
@@ -38,7 +38,7 @@ We'll be using the following HTML [tags](http://www.htmldog.com/guides/html/begi
 
 Many of these tags will be styled using CSS. We'll also fancy it up by applying a border around the entire webpage, which is strictly a CSS style.
 
-#### Add basic structure
+### Add basic structure
 
 ```html
 <!DOCTYPE html>
@@ -76,7 +76,7 @@ Congrats! You just made a webpage. (Your first?!)
 
 [http://cssdeck.com/labs/kz8sc3zw](http://cssdeck.com/labs/kz8sc3zw)
 
-#### Title
+### Title
 
 Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card between the opening and closing `<head>` tags: 
 
@@ -84,7 +84,7 @@ Add a [title](http://www.htmldog.com/guides/html/beginner/titles/) to your card 
 <title>Happy Valentine's Day!</title>
 ```
 
-#### Heading
+### Heading
 
 Update the [heading](http://www.htmldog.com/guides/html/beginner/headings/) in your card:
 
@@ -98,7 +98,7 @@ Headers include the `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>` and `<h6>` tags. `<h1
 
 > Want it to say something different? Just change the text between the tags!
 
-#### Image
+### Image
 
 Insert an image just below the main heading:
 
@@ -108,7 +108,7 @@ Insert an image just below the main heading:
 
 [http://cssdeck.com/labs/ohqmko16](http://cssdeck.com/labs/ohqmko16)
 
-#### Paragraph Text
+### Paragraph Text
 
 Say something sweet. Write your personal message within the paragraph text:
 
@@ -119,7 +119,7 @@ Say something sweet. Write your personal message within the paragraph text:
 
 [http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
 
-#### Divider
+### Divider
 
 Let's create a button using the divider tag that will link somewhere like ...:
 
@@ -131,9 +131,9 @@ Doesn't look much like a button yet. It will soon. Trust me.
 
 [http://cssdeck.com/labs/1opjhgbg](http://cssdeck.com/labs/1opjhgbg)
 
-####
+### Anchor
 
-Finally, surround the divider tags with a link:
+Finally, surround the divider tags with an `<a>` tag to create a link:
 
 ```html
 <a href="/"><div>click here to get your present</div></a>
@@ -145,7 +145,7 @@ Well, we've added all the HTML structure to our page. Check out the fullscreen p
 
 Kind of bland. Fortunately, we can quickly change that with CSS!
 
-### Our Card's Style (CSS)
+## Our Card's Style (CSS)
 
 From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
 
@@ -160,7 +160,7 @@ We're going to add three selectors to our HTML page:
 
 Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8vf9o).
 
-#### Header
+### Header
 
 ```css
 #header {
@@ -182,7 +182,7 @@ Copy and paste this into the CSS pane within CSSDeck.
 
 [http://cssdeck.com/labs/ej1kciif](http://cssdeck.com/labs/ej1kciif)
 
-#### Paragraph Text
+### Paragraph Text
 
 Update the style of your personal message:
 
@@ -197,7 +197,7 @@ Update the style of your personal message:
 
 [http://cssdeck.com/labs/brkeecsj](http://cssdeck.com/labs/brkeecsj)
 
-#### Divider
+### Divider
 
 Let's make that button look like a button:
 
@@ -219,7 +219,7 @@ Let's make that button look like a button:
 
 The text is still a bit off. Let's fix that.
 
-#### Additional CSS
+### Additional CSS
 
 ```css
 body {
@@ -240,19 +240,19 @@ Try changing the border values. Play with the pixel size until you get it the ri
 
 [http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
 
-### Sharing
+## Sharing
 
 Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the URL for the "Full Screen Result." Then email/tweet/post the link to that special person in your life. 
 
 [http://cssdeck.com/labs/full/npulm7vr](http://cssdeck.com/labs/full/npulm7vr)
 
-### Next Steps
+## Next Steps
 
 - Did you customize the card? Do it again. Share it again. That special someone deserves it, right?
 - Need a challenge? Don't wait until the last minute. Get started on your St. Patrick's day card now!
 - Not enough? Check out [this](http://www.thinkful.com/learn/intro-to-jquery) awesome Javascript/jQuery tutorial.
 
-### Conclusion
+## Conclusion
 
 Thank you so much for reading. Leave questions/comments/issues/concerns below. 
 
