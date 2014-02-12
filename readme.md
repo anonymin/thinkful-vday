@@ -19,7 +19,7 @@ Web developers use HTML (or Hypertext Markup Language) to tell web browsers whet
 
 Let's start with the structure, but first let's look at what we're going to be creating today:
 
-![image](image)
+![final](https://raw.github.com/mjhea0/thinkful-vday/master/images/final_card.png)
 
 You can also view the final webpage [here](link).
 
@@ -265,7 +265,7 @@ The text is still a bit off. Let's fix that.
 ```css
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
-  border-size: 20px; 
+  border-width: 20px; 
   border-style: solid; 
   border-color: #fcd2d8;
   text-align: center;
@@ -281,8 +281,11 @@ Try changing the border values. Play with the pixel size until you get it the ri
 
 > Pro Tip: Use that special someone's favorite color! (You should know this ... if not, find out quickly.)
 
-[http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
+Check it out!
 
+![final](https://raw.github.com/mjhea0/thinkful-vday/master/images/final_card.png)
+
+[http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
 
 ## Your turn!
 
@@ -295,14 +298,25 @@ While I provide a brief review, work along with me while you develop your own ba
 5. Add an external CSS file (make sure to link to the HTML page)
 6. Change the background color, then center all elements.
 
+## Chrome Developer Tools
+
+Using Chrome Developer Tools, we can test either HTML or CSS changes directly from the browser. This can save a lot time. Instead of firing up your text editor and getting your development enviornment setup. You can test out quick changes directly from Chrom.
+
+Open up the HTML page we worked on. Right Click on the `<h1>` tag. Select "Inspect Element". Notice the styles on the right side of the Developer Tools pane associated with the paragraph. Do you see the styles associated with it. Try change the size of the font.
+
+![dev_tools](https://raw.github.com/mjhea0/thinkful-vday/master/images/dev_tools.png)
+
+You can also edit your HTML in real time. With Dev Tools open, right click the paragraph text and select "Edit as HTML". Add another paragraph.
+
+> Be careful as these changes are temporary. Watch what happens when you refresh the page.
 
 ## Next Steps
 
 - Did you customize the card? Try again. This time don't look at my code examples.
 - Don't wait until the last minute. Get started on your St. Patrick's day card now!
-- GLEIT.me
+- Add some jQuery. Check out my card [here](http://gleit.me)
 
 ## Conclusion
 
-That's all I have planned. Thank you! Cheers!
+That's all I have planned. Thank you! Question time!
 
