@@ -7,7 +7,7 @@ Please note: This is a presentation, which goes along with [blog](http://www.thi
 1. Intro
 2. Example of what we're building
 3. Requirements
-4. Code Wokflow
+4. Code Workflow
   - HTML elements
   - CSS styles
 6. Next steps
@@ -169,7 +169,7 @@ Kind of bland, to put it nicely. Fortunately, we can quickly change that with CS
 
 While HTML provides, structure, CSS is used for styling, making webpages look nice. From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
 
-CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). Simnply add selectors (either IDs or Classes) to your HTML, and then you can link directly to them in your stylesheet.
+CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). Simply add selectors (either IDs or Classes) to your HTML, and then you can link directly to them in your stylesheet.
 
 We're going to add three selectors to our HTML page:
 
@@ -293,16 +293,16 @@ While I provide a brief review, work along with me while you develop your own ba
 
 1. Create a basic HTML page with the doctype, html, head, and body tags (remember the boilerplate template!)
 2. Add a header (H1)
-3. Add some paragraph text (perhaps a something special for your sweety)
+3. Add some paragraph text (perhaps a something special for your sweetie)
 4. Add a link to this image: ![heart](),
 5. Add an external CSS file (make sure to link to the HTML page)
 6. Change the background color, then center all elements.
 
-Sweet. Send me your code to reivew if you'd like to michael@mherman.org.
+Sweet. Send me your code to review if you'd like to michael@mherman.org.
 
 ## Chrome Developer Tools
 
-Using Chrome Developer Tools, we can test either HTML or CSS changes directly from the browser. This can save a lot time. Instead of firing up your text editor and getting your development enviornment setup. You can test out quick changes directly from Chrom.
+Using Chrome Developer Tools, we can test either HTML or CSS changes directly from the browser. This can save a lot time. Instead of firing up your text editor and getting your development environment setup. You can test out quick changes directly from Chrome.
 
 Open up the HTML page we worked on. Right Click on the `<h1>` tag. Select "Inspect Element". Notice the styles on the right side of the Developer Tools pane associated with the paragraph. Do you see the styles associated with it. Try change the size of the font.
 
