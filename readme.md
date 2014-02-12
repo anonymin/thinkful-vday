@@ -15,13 +15,13 @@ Please note: This is a presentation, which goes along with [blog](http://www.thi
 
 ## Intro
 
-Web developers use HTML (or Hypertext Markup Language) to tell web browsers whether the elements and text found on a web page is, well, HTML. Web browsers, in turn, use this information to structure and display the page as described in the HTM file. CSS (or Cascading Style Sheets) is used to make web pages attractive/pretty. Developers use CSS rules to change, for example, the font color, font size and the typeface of text. 
+Web developers use HTML (or Hypertext Markup Language) to tell web browsers whether the elements and text found on a web page is, well, HTML. Web browsers, in turn, use this information to structure and display the page as described in the actual HTML file. Meanwhile, CSS (or Cascading Style Sheets) is used to make web pages attractive/pretty. For example, developers use CSS rules to change the font color, font size, the typeface of text, and so forth. 
 
 Let's start with the structure, but first let's look at what we're going to be creating today:
 
 ![final](https://raw.github.com/mjhea0/thinkful-vday/master/images/final_card.png)
 
-You can also view the final webpage [here](link).
+You can also view the final webpage [here](http://cssdeck.com/labs/full/npulm7vr).
 
 ## Requirements
 
