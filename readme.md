@@ -298,6 +298,8 @@ While I provide a brief review, work along with me while you develop your own ba
 5. Add an external CSS file (make sure to link to the HTML page)
 6. Change the background color, then center all elements.
 
+Sweet. Send me your code to reivew if you'd like to michael@mherman.org.
+
 ## Chrome Developer Tools
 
 Using Chrome Developer Tools, we can test either HTML or CSS changes directly from the browser. This can save a lot time. Instead of firing up your text editor and getting your development enviornment setup. You can test out quick changes directly from Chrom.
