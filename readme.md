@@ -29,7 +29,7 @@ Before we start, you need a *source code editor*, which is simply a text editor 
 
 Also, please make sure you have [Google Chrome](http://google.com/chrome) installed.
 
-**Break out Sublime (or our favorite editor). Let's code.**
+**Open Sublime (or our favorite editor). Let's code.**
 
 ## Workflow
 
