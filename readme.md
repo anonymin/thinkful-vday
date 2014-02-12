@@ -33,7 +33,7 @@ Also, please make sure you have [Google Chrome](http://google.com/chrome) instal
 
 ## Workflow
 
-We will be creating this was page iteratively, step by step. In other words, we'll add a line of code then discuss what it does. I've included links to the updated code after each step. If you get stuck, please comment below.
+We will be creating this was page iteratively, step by step. In other words, we'll add a line of code then discuss what it does.
 
 ## Our Card's Structure (HTML)
 
@@ -60,7 +60,7 @@ Many of these tags will be styled using CSS. We'll also fancy it up by applying 
 </html>
 ```
 
-Copy and paste this basic webpage structure into your text editor. Save this file as .*index.html*.
+Copy and paste this basic webpage structure into your text editor. Save this file as *index.html*.
 
 This structure is commonly referred to as a boilerplate template. Such templates are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page. Most boilerplates include much more features, but let's start with the basics.
 
