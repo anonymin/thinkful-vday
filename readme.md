@@ -1,26 +1,35 @@
-# Make your valentine's day special with HTML and CSS
+# Falling in love with HTML and CSS
 
-Valentine’s Day is just around the corner, and there's no better way to someone's heart than a handmade card - which is exactly what we're making in this tutorial. Using the power of HTML and CSS, you'll learn how to develop a website that doubles as a v-day card to wow that special someone in your life. (Disclaimer: To ensure the wow factor you may want to buy flowers or chocolate, as well).
+Please note: This is a presentation, which goes along with [blog](http://www.thinkful.com/learn/valentines-day-ecard) post. 
 
-## HTML and CSS
+## Basic TOC
 
-Websites are made up of many things, but HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are the two main components. Together, like you and your partner, they are the building blocks for every single webpage on the Internet.
+1. Intro
+2. Example of what we're building
+3. Requirements
+4. Code Wokflow
+  - HTML elements
+  - CSS styles
+6. Next steps
+7. Your turn!
 
-Think of a greeting card. It's made up of many attributes, like text, an image, and perhaps a poem of sorts. In the world of HTML, such attributes are the elements of a webpage. Meanwhile, each of the card's attributes are usually different. Perhaps they differ by size. Or shape. Or color. Back in the web world, CSS is used to define the look and feel of a webpage. 
+## Intro
 
-> Remember: HTML provides structure, while the CSS is used for styling, making websites look pretty. **For more information on HTML and CSS basics, check out the beginner tutorials [here](http://learn.shayhowe.com/html-css/terminology-syntax-intro) and [here](http://www.htmldog.com/guides/).**
+Web developers use HTML (or Hypertext Markup Language) to tell web browsers whether the elements and text found on a web page is, well, HTML. Web browsers, in turn, use this information to structure and display the page as described in the HTM file. CSS (or Cascading Style Sheets) is used to make web pages attractive/pretty. Developers use CSS rules to change, for example, the font color, font size and the typeface of text. 
 
-Now let's turn to an actual web page ...
+Let's start with the structure, but first let's look at what we're going to be creating today:
 
-![final_card](https://raw.github.com/mjhea0/thinkful-vday/master/images/final_card.png)
+![image](image)
 
-The image above is an example of what we're going to be creating, using just HTML and CSS. You can also view the webpage [here](http://cssdeck.com/labs/full/npulm7vr).
+You can also view the final webpage [here](link).
 
-## Setup
+## Requirements
 
-For this tutorial we will be using an online HTML, CSS, and Javascript code editor called [CSSDeck](http://cssdeck.com/). Sign up for a free plan [here](http://cssdeck.com/signup). After signing up, navigate to the homepage and click the "New" button to create a new environment for us to work in. 
+Before we start, you need a *source code editor*, which is simply a text editor designed specifically for writing source code. Some popular editors include Notepad++ (Windows), TextMate (Mac), and Gedit (cross-platform). For this exercise, please download the cross-platform editor [Sublime Text](http://www.sublimetext.com/2), which is an editor designed for simplicity and ease of use.
 
-You should see four panes. The three smaller panes on the left are for entering your HTML, CSS, or Javascript code, while the large pane displays a preview of the how the webpage will *actually* look.
+Also, please make sure you have [Google Chrome](http://google.com/chrome) installed.
+
+**Break out Sublime (or our favorite editor). Let's code.**
 
 ## Workflow
 
@@ -51,13 +60,13 @@ Many of these tags will be styled using CSS. We'll also fancy it up by applying 
 </html>
 ```
 
-Copy and paste this basic webpage structure into the HTML pane within CSSDeck. 
+Copy and paste this basic webpage structure into your text editor. Save this file as .*index.html*.
 
-This structure is commonly referred to as a boilerplate template. Such templates are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page.
+This structure is commonly referred to as a boilerplate template. Such templates are used to speed up development so you don't have to code the features common to every single webpage each time you create a new page. Most boilerplates include much more features, but let's start with the basics.
 
 **What's going on?**
 
-1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case).
+1. The first line, `<!DOCTYPE html>` is the document type declaration, which tells the browser the version of HTML the page is using (HTML5, in our case). 
 2. `<html>` informs the browser that all code between the opening and closing, `</html>`, tags is HTML.
 3. The `<head>` tag contains links to CSS stylesheets and Javascript files that we wish to use in our web page, as well as meta information used by search engines.
 4. All code that falls within the `<body>` tags are part of the main content of the page, which will appear in the browser to the end user.
@@ -70,11 +79,16 @@ Add a the following element to the page within the `<body>` tags:
 <h1>Hello, World</h1>
 ```
 
-Check out the preview pane. You should see the header text, "Hello, World".
+Check it out in Chrome. You should see the header text, "Hello, World".
 
 Congrats! You just made a webpage. (Your first?!)
 
 [http://cssdeck.com/labs/kz8sc3zw](http://cssdeck.com/labs/kz8sc3zw)
+
+**What's going on?**
+
+1. *Tags* form the structure of your page. They surround and apply *meaning* to content. There usually is an opening tag and then a closing tag, like - `<div></div>`, a divider. Some tags, like the `<img>` (image) and `<br>` (line break) tags do not require a closing tag. Notice how I included one `<br>` tag with a `/` on the end. This was a best practice in previous versions of HTML. HTML5, on the other hand - the version we are using - is much more relaxed and does not require a `/`, but it will work fine with it as well. It's really the developer's preference.
+2. *Elements* represent the tags as well as whatever falls between the opening and closing tags, like - `<title>My bumblebee website</title>`
 
 ### Title
 
@@ -115,7 +129,7 @@ Say something sweet. Write your personal message within the paragraph text:
 ```html
 <p>Write your personal message here</p>
 ```
-> Tip: Replace "Write your personal message here" with your actual message. :) Perhaps: "You are the HTML to my CSS."
+> Tip: Replace "Write your personal message here" with your actual message. :) 
 
 [http://cssdeck.com/labs/ofag2kig](http://cssdeck.com/labs/ofag2kig)
 
@@ -139,7 +153,7 @@ Finally, surround the divider tags with an `<a>` tag to create a link:
 <a href="/"><div>click here to get your present</div></a>
 ```
 
-You also need to add a link in. Perhaps something [like](http://www.youtube.com/watch?v=WTGUjRJiqik). Or maybe to a dinner reservation confirmation page. Or maybe you could break out the guitar and create your own video! <3
+You also need to insert a link to replace the slash in the `<a>`. You could add a link to a cute video from Youtube. To really wow your partner with your DIY gift, create your own video to link to! <3
 
 [http://cssdeck.com/labs/m9d3pqjy](http://cssdeck.com/labs/m9d3pqjy)
 
@@ -153,9 +167,9 @@ Kind of bland, to put it nicely. Fortunately, we can quickly change that with CS
 
 ## Our Card's Style (CSS)
 
-From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
+While HTML provides, structure, CSS is used for styling, making webpages look nice. From the size of the text to the background colors to the positioning of HTML elements, CSS gives you control over almost every visual aspect of a page.
 
-CSS and HTML work in tandem (Again, like you and your partner). CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). 
+CSS and HTML work in tandem. CSS styles (or rules) are applied directly to HTML elements using [selectors](http://www.htmldog.com/guides/css/beginner/selectors/). Simnply add selectors (either IDs or Classes) to your HTML, and then you can link directly to them in your stylesheet.
 
 We're going to add three selectors to our HTML page:
 
@@ -163,7 +177,21 @@ We're going to add three selectors to our HTML page:
 2. `.msg`
 3. `.button`
 
-Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8vf9o).
+Insert them now:
+
+```html
+<h1 id="header">Happy Valentine's Day!</h1>
+<p id="msg">Write your personal message here.</p>
+<div id="button">Click here to get your present.</button>
+```
+
+Your code should now look like [this](http://cssdeck.com/labs/epx8vf9o).
+
+Next, we need to "link" our HTML page and CSS stylesheet. To do so, add the following code to the `<head>` section of the HTML page just below the title:
+
+```html
+<link rel="stylesheet" href="styles.css">
+```
 
 ### Header
 
@@ -175,7 +203,9 @@ Add them now. Your code should now look like [this](http://cssdeck.com/labs/epx8
 }
 ```
 
-Copy and paste this into the CSS pane within CSSDeck.
+Copy and paste this into the CSS a new file. Save it as *styles.css*. 
+
+Here, we are increasing the size of the font, changing the thickness of the text, and adding some space to the top of our header selector. Try updating the size of the text. Or color. Play around with this.
 
 **What's going on?**
 
@@ -200,6 +230,8 @@ Update the style of your personal message:
 }
 ```
 
+This changes the color of our text, italicizes it, changes the size. It also adds a margin to the top of the message.
+
 [http://cssdeck.com/labs/brkeecsj](http://cssdeck.com/labs/brkeecsj)
 
 ### Divider
@@ -219,6 +251,8 @@ Let's make that button look like a button:
   margin-bottom: 50px;
 }
 ```
+
+With this, our button becomes rounded. We set its height and width, and applied color changes.
 
 > Have some fun with this. Change the `background-color` and well as the font `color`.
 
@@ -249,20 +283,26 @@ Try changing the border values. Play with the pixel size until you get it the ri
 
 [http://cssdeck.com/labs/npulm7vr](http://cssdeck.com/labs/npulm7vr)
 
-## Sharing
 
-Show that you care. Share. Within CSSDeck, click the "Share" button. Copy the URL for the "Full Screen Result." Then email/tweet/post the [link](http://cssdeck.com/labs/full/npulm7vr) to that special person in your life. 
+## Your turn!
+
+While I provide a brief review, work along with me while you develop your own basic site. Stick with the V-day theme for fun! 
+
+1. Create a basic HTML page with the doctype, html, head, and body tags (remember the boilerplate template!)
+2. Add a header (H1)
+3. Add some paragraph text (perhaps a something special for your sweety)
+4. Add a link to this image: ![heart](),
+5. Add an external CSS file (make sure to link to the HTML page)
+6. Change the background color, then center all elements.
 
 
 ## Next Steps
 
-- Did you customize the card? Do it again. Share it again. That special someone deserves it, right?
-- Need a challenge? Don't wait until the last minute. Get started on your St. Patrick's day card now!
-- Not enough? Check out [this](http://www.thinkful.com/learn/intro-to-jquery) awesome Javascript/jQuery tutorial.
+- Did you customize the card? Try again. This time don't look at my code examples.
+- Don't wait until the last minute. Get started on your St. Patrick's day card now!
+- GLEIT.me
 
 ## Conclusion
 
-Thank you so much for reading. Leave questions/comments/issues/concerns below. Oh, and let us know if the card helps out this Valentine's Day.
-
-Cheers!
+That's all I have planned. Thank you! Cheers!
 
