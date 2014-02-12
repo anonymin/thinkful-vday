@@ -1,6 +1,6 @@
 # Falling in love with HTML and CSS
 
-Please note: This is a presentation/training mean to be paired with this [blog](http://www.thinkful.com/learn/valentines-day-ecard) post. 
+Please note: This is a presentation/training meant to be paired with this [blog](http://www.thinkful.com/learn/valentines-day-ecard) post. 
 
 ## Basic TOC
 
