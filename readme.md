@@ -294,7 +294,7 @@ While I provide a brief review, work along with me while you develop your own ba
 1. Create a basic HTML page with the doctype, html, head, and body tags (remember the boilerplate template!)
 2. Add a header (H1)
 3. Add some paragraph text (perhaps a something special for your sweetie)
-4. Add a link to this image: ![heart](),
+4. Use this image: http://icons.iconarchive.com/icons/designbolts/free-valentine-heart/128/Hearts-icon.png
 5. Add an external CSS file (make sure to link to the HTML page)
 6. Change the background color, then center all elements.
 
