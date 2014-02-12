@@ -304,7 +304,7 @@ Sweet. Send me your code to review if you'd like to michael@mherman.org.
 
 Using Chrome Developer Tools, we can test either HTML or CSS changes directly from the browser. This can save a lot time. Instead of firing up your text editor and getting your development environment setup. You can test out quick changes directly from Chrome.
 
-Open up the HTML page we worked on. Right Click on the `<h1>` tag. Select "Inspect Element". Notice the styles on the right side of the Developer Tools pane associated with the paragraph. Do you see the styles associated with it. Try change the size of the font.
+Open up the HTML page we worked on. Right Click on the `<h1>` tag. Select "Inspect Element". Notice the styles on the right side of the Developer Tools pane associated with the paragraph. Do you see the styles associated with it. Try changng the size of the font as well as the color..
 
 ![dev_tools](https://raw.github.com/mjhea0/thinkful-vday/master/images/dev_tools.png)
 
@@ -316,7 +316,7 @@ You can also edit your HTML in real time. With Dev Tools open, right click the p
 
 - Did you customize the card? Try again. This time don't look at my code examples.
 - Don't wait until the last minute. Get started on your St. Patrick's day card now!
-- Add some jQuery. Check out my card [here](http://gleit.me)
+- Add some JavaScript/jQuery. Check out my card [here](http://gleit.me)
 
 ## Conclusion
 
